@@ -51,7 +51,9 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+element selector{
+  property:value;
+}
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -76,6 +78,10 @@ body tag
 <!-- enter you answer in the space below -->
 
 ```
+<ul></ul>
+<ol></ol>
+<dl></dl>
+
 
 ```
 
@@ -84,7 +90,8 @@ body tag
 <!-- enter you answer in the space below -->
 
 ```
-
+allows for things within a parent div to fit to a container
+<!-- note look here -->
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
@@ -92,5 +99,10 @@ body tag
 <!-- enter you answer in the space below -->
 
 ```
+width
+height
+border
+margin
+padding
 
 ```
