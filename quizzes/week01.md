@@ -59,7 +59,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+font-weight
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -67,6 +67,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
+body tag
 
 ```
 
